@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.vr_music_visualizer-15973114.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "F:/School Things/CE 472 VR/Project/VR_Music_Visualizer/VR_Music_Visualizer/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "VR_Music_Visualizer-15973114 [UE Editor]"
+				}
+			}
+		}
+	]
+}
