@@ -2,6 +2,18 @@
 	"AssetInfoVersion": 1,
 	"ShaderCodeToAssets": [
 		{
+			"ShaderMapHash": "F9AC30FABEAC784E70831BBD20944736F796FA37",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/PersonaFloorMat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "76BFF9B5680E0C374F84CA79A8AE972A3BD18FD6",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/GridMaterial.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "95A9C889EB13EA19CEECC7FDC65A0CA823E5266C",
 			"Assets": [
 				"../../../Engine/Content/EditorMaterials/LevelGridMaterial2.uasset"
@@ -23,6 +35,12 @@
 			"ShaderMapHash": "AC6FC85D8C66AE35DE3F1483E30BE5D69DA3689A",
 			"Assets": [
 				"F:/School Things/CE 472 VR/Project/VR_Music_Visualizer/VR_Music_Visualizer/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EAEAB1930772AFD16009C23F765323AC138872C4",
+			"Assets": [
+				"F:/School Things/CE 472 VR/Project/VR_Music_Visualizer/VR_Music_Visualizer/Content/Materials/M_NiagraSystem.uasset"
 			]
 		},
 		{
@@ -56,9 +74,45 @@
 			]
 		},
 		{
+			"ShaderMapHash": "3A73F34BF1C29930A3A27120EE4595BFDEA81288",
+			"Assets": [
+				"F:/School Things/CE 472 VR/Project/VR_Music_Visualizer/VR_Music_Visualizer/Content/VirtualReality/Materials/M_TeleportPreviews.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "070C8D53EB0DF5D12F690813245F122854ED0CE7",
+			"Assets": [
+				"F:/School Things/CE 472 VR/Project/VR_Music_Visualizer/VR_Music_Visualizer/Content/VirtualReality/Materials/M_ArcEndpoint.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "64A251BABC8563ECB15F07E352295BB87C0FF4CA",
+			"Assets": [
+				"F:/School Things/CE 472 VR/Project/VR_Music_Visualizer/VR_Music_Visualizer/Content/VirtualReality/Materials/M_SplineArcMat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "585E95BCA3CAD66830767D0F484B25964C8FF869",
+			"Assets": [
+				"F:/School Things/CE 472 VR/Project/VR_Music_Visualizer/VR_Music_Visualizer/Content/VirtualReality/Mannequin/Character/Materials/M_HandMat.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "4FE3282AB0F6C2789225C1FD03EF54E56158CD16",
 			"Assets": [
 				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "99E1AB998FAC55CCEB30B074F86291F940051F66",
+			"Assets": [
+				"F:/School Things/CE 472 VR/Project/VR_Music_Visualizer/VR_Music_Visualizer/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "03200115334D85C489D33F6C0EE23790CDF633D5",
+			"Assets": [
+				"F:/School Things/CE 472 VR/Project/VR_Music_Visualizer/VR_Music_Visualizer/Content/Materials/M_EmissiveBase.uasset"
 			]
 		},
 		{
@@ -364,24 +418,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "1882B8A86961777F9222264C52EBE9583D56600D",
-			"Assets": [
-				"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "4212E1855B4A0C933DE28474B88E21135631201D",
-			"Assets": [
-				"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "5EB0E9214B12D20C714F8FAC77380E20870BC318",
-			"Assets": [
-				"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "3D7143AA809A47F1C7EEE53B644DCF054D0C92BA",
 			"Assets": [
 				"../../../Engine/Content/BufferVisualization/PostTonemapHDRColor.uasset"
@@ -523,6 +559,24 @@
 			"ShaderMapHash": "A5423ABC3F75A8BBFEBCCA3F5302FBA632750290",
 			"Assets": [
 				"../../../Engine/Content/BufferVisualization/BaseColor.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1882B8A86961777F9222264C52EBE9583D56600D",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4212E1855B4A0C933DE28474B88E21135631201D",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5EB0E9214B12D20C714F8FAC77380E20870BC318",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset"
 			]
 		},
 		{
@@ -703,51 +757,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "3A73F34BF1C29930A3A27120EE4595BFDEA81288",
-			"Assets": [
-				"F:/School Things/CE 472 VR/Project/VR_Music_Visualizer/VR_Music_Visualizer/Content/VirtualReality/Materials/M_TeleportPreviews.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "1EC0A730EA73D3AF21AB7AEED6CF499E04F9E1E1",
 			"Assets": [
 				"../../../Engine/Content/EditorMaterials/MatineeCam_mat.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "64A251BABC8563ECB15F07E352295BB87C0FF4CA",
-			"Assets": [
-				"F:/School Things/CE 472 VR/Project/VR_Music_Visualizer/VR_Music_Visualizer/Content/VirtualReality/Materials/M_SplineArcMat.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "070C8D53EB0DF5D12F690813245F122854ED0CE7",
-			"Assets": [
-				"F:/School Things/CE 472 VR/Project/VR_Music_Visualizer/VR_Music_Visualizer/Content/VirtualReality/Materials/M_ArcEndpoint.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "EAEAB1930772AFD16009C23F765323AC138872C4",
-			"Assets": [
-				"F:/School Things/CE 472 VR/Project/VR_Music_Visualizer/VR_Music_Visualizer/Content/Materials/M_NiagraSystem.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "585E95BCA3CAD66830767D0F484B25964C8FF869",
-			"Assets": [
-				"F:/School Things/CE 472 VR/Project/VR_Music_Visualizer/VR_Music_Visualizer/Content/VirtualReality/Mannequin/Character/Materials/M_HandMat.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "99E1AB998FAC55CCEB30B074F86291F940051F66",
-			"Assets": [
-				"F:/School Things/CE 472 VR/Project/VR_Music_Visualizer/VR_Music_Visualizer/Content/StarterContent/Materials/M_Basic_Wall.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "03200115334D85C489D33F6C0EE23790CDF633D5",
-			"Assets": [
-				"F:/School Things/CE 472 VR/Project/VR_Music_Visualizer/VR_Music_Visualizer/Content/Materials/M_EmissiveBase.uasset"
 			]
 		}
 	]
