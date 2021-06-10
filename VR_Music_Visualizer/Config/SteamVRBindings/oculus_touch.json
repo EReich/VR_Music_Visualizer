@@ -52,6 +52,28 @@
 					}
 				},
 				{
+					"mode": "button",
+					"path": "/user/hand/left/input/y",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/LeftWidgetTrigger"
+						}
+					}
+				},
+				{
+					"mode": "button",
+					"path": "/user/hand/right/input/b",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/RightWidgetTrigger"
+						}
+					}
+				},
+				{
 					"mode": "joystick",
 					"path": "/user/hand/right/input/joystick",
 					"inputs":
