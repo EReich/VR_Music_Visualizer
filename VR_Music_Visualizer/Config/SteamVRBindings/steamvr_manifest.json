@@ -164,12 +164,28 @@
 			"type": "boolean"
 		},
 		{
+			"name": "/actions/main/in/LeftWidgetTrigger",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/RightWidgetTrigger",
+			"type": "boolean"
+		},
+		{
 			"name": "/actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d",
 			"type": "vector2"
 		},
 		{
 			"name": "/actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d",
 			"type": "vector2"
+		},
+		{
+			"name": "/actions/main/in/TeleportDirectionUp axis",
+			"type": "vector1"
+		},
+		{
+			"name": "/actions/main/in/TeleportDirectionRight axis",
+			"type": "vector1"
 		}
 	],
 	"action_sets": [
@@ -416,8 +432,12 @@
 			"/actions/main/in/TeleportLeft": "TeleportLeft",
 			"/actions/main/in/GrabRight": "GrabRight",
 			"/actions/main/in/GrabLeft": "GrabLeft",
+			"/actions/main/in/LeftWidgetTrigger": "LeftWidgetTrigger",
+			"/actions/main/in/RightWidgetTrigger": "RightWidgetTrigger",
 			"/actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d": "MotionControllerThumbRight",
 			"/actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d": "MotionControllerThumbLeft",
+			"/actions/main/in/TeleportDirectionUp axis": "TeleportDirectionUp",
+			"/actions/main/in/TeleportDirectionRight axis": "TeleportDirectionRight",
 			"/actions/main": "Main Game Actions"
 		}
 	]
