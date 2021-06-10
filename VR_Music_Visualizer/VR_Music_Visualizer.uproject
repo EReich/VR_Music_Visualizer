@@ -12,5 +12,10 @@
 			"Name": "SoundUtilities",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"AllDesktop",
+		"WindowsNoEditor"
 	]
 }
